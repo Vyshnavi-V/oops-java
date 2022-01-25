@@ -1,3 +1,3 @@
-oops-java
+OOPS-JAVA
 
 Experiment 3
